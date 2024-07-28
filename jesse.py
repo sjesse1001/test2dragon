@@ -2,3 +2,11 @@
 # jesse
 # gonna try to make parsers
 
+
+def p (x):
+    return x == 'e'
+
+def satisfy (p, input):
+    ...
+
+    
